@@ -53,18 +53,18 @@ streamlit run app.py
 
 ### **How It Works?**  
 
-### ** Step 1: Upload Resumes**  
+### Step 1: Upload Resumes**  
 - Select and upload **multiple PDF resumes**.  
 - Enter a **job description** to compare resumes against.  
 
-### ** Step 2: AI-Powered Resume Ranking**  
+### Step 2: AI-Powered Resume Ranking**  
 - Extracts resume text using **PyPDF2**.  
 - Applies **TF-IDF & Cosine Similarity** for resume-job description matching.  
 - Ranks resumes based on relevance.  
 
-### ** Step 3: View & Download Results**  
+### Step 3: View & Download Results**  
 - Displays **ranked resumes in a structured table**.  
 - Option to **download ranked resumes as a CSV file**.  
 
-## **Contributing**  
+## Contributing
 Want to contribute? Fork the repository, create a branch, and submit a pull request.  
