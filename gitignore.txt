@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment files
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache & logs
+.streamlit/
+logs/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python package dependencies
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore model files and large data files
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.csv
+*.json
+*.sqlite
+
+# Ignore test output and temp files
+tests/__pycache__/
+*.tmp
