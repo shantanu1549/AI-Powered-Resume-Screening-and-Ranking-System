@@ -51,7 +51,7 @@ streamlit run app.py
 ├── README.md               # Project documentation
 ```
 
-**How It Works?**  
+### **How It Works?**  
 
 ### ** Step 1: Upload Resumes**  
 - Select and upload **multiple PDF resumes**.  
