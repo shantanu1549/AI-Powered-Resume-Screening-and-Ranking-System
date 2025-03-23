@@ -23,18 +23,18 @@ The **AI Resume Screening & Ranking System** is a **Streamlit-based web applicat
 ### **Prerequisites**  
 Ensure you have **Python 3.7+** installed.  
 
-### **1️⃣ Clone the Repository**  
+### **1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/yourusername/AI-Resume-Screening.git
 cd AI-Resume-Screening
 ```
 
-### **2️⃣ Install Dependencies**  
+### **2️⃣ Install Dependencies
 ```sh
 pip install -r requirements.txt
 ```
 
-### **3️⃣ Run the Application**  
+### **3️⃣ Run the Application
 ```sh
 streamlit run app.py
 ```
